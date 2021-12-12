@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://farid:salmani@merntest.fm2vh.mongodb.net/newCardsOfMe?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
